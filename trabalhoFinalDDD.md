@@ -7,7 +7,7 @@
 
 ### RM359096 - Francisco Anderson Rodrigues da Silva
 ### RM359921 - Jean Michel Deschamps
-### RM359610 - Marcello Naz�rio De Oliveira Ara�jo
+### RM359610 - Marcello Nazario De Oliveira Araujo
 
 ---
 
